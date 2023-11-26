@@ -1,0 +1,16 @@
+C:\XAMARIN\Lab10\App12\App12\bin\Debug\netstandard2.0\App12.deps.json
+C:\XAMARIN\Lab10\App12\App12\bin\Debug\netstandard2.0\App12.dll
+C:\XAMARIN\Lab10\App12\App12\bin\Debug\netstandard2.0\App12.pdb
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.csproj.AssemblyReference.cache
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.GeneratedMSBuildEditorConfig.editorconfig
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\View\Operaciones.xaml.g.cs
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfoInputs.cache
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.AssemblyInfo.cs
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.csproj.CoreCompileInputs.cache
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.dll
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\refint\App12.dll
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\App12.pdb
+C:\XAMARIN\Lab10\App12\App12\obj\Debug\netstandard2.0\ref\App12.dll

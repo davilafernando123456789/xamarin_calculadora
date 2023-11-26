@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App12.View.Operaciones">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" Padding="20">
+
+            <Label Text="CALCULADORA DAVILA" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" Margin="0,0,0,20" />
+
+            <StackLayout>
+                <Label Text="Ingrese Primer Número" FontSize="16" HorizontalOptions="Center" />
+                <Entry Placeholder="Valor 1" FontSize="18" Text="{Binding Valor1}" Margin="10,0,5,5" HorizontalOptions="Center" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Ingrese Segundo Número" FontSize="16" HorizontalOptions="Center" />
+                <Entry Placeholder="Valor 2" FontSize="18" Text="{Binding Valor2}" Margin="10,0,5,5" HorizontalOptions="Center" />
+            </StackLayout>
+
+            <StackLayout>
+                <Label Text="Ingrese Tercer Número" FontSize="16" HorizontalOptions="Center" />
+                <Entry Placeholder="Valor 3" FontSize="18" Text="{Binding Valor3}" Margin="10,0,5,5" HorizontalOptions="Center" />
+            </StackLayout>
+
+            <Label Text="Resultado" FontSize="20" FontAttributes="Bold" Margin="0,20,0,10" VerticalTextAlignment="Center" HorizontalOptions="Center" />
+
+            <Label Text="{Binding Resultado}" FontSize="24" FontAttributes="Bold" TextColor="Green" VerticalTextAlignment="Center" HorizontalOptions="Center" />
+
+            <StackLayout Orientation="Horizontal" Margin="0,20,0,0" HorizontalOptions="Center">
+                <Button Text="Sumar" Command="{Binding Sumar}" FontSize="18" BackgroundColor="RoyalBlue" TextColor="White" Margin="0,0,10,0" />
+                <Button Text="Multiplicar" Command="{Binding Multiplicar}" FontSize="18" BackgroundColor="DarkRed" TextColor="White" />
+            </StackLayout>
+
+        </StackLayout>
+
+
+    </ContentPage.Content>
+</ContentPage>
